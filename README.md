@@ -1,6 +1,6 @@
 # Hi there, I'm Sidharth! 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=netlify)](https://devsidharth.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=netlify)](https://sidharthe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidharthe)
 
 ---
