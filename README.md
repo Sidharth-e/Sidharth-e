@@ -2,7 +2,7 @@ Hi there, I'm Sidharth! 👋
 <a href="https://www.google.com/search?q=https://devsidharth.netlify.app/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-WebApp-blue%3Fstyle%3Dfor-the-badge%26logo%3Dnetlify" alt="Portfolio">
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username" target="_blank"> <!-- Replace with your LinkedIn URL -->
+<a href="https://www.linkedin.com/in/sidharthe" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Profile-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn">
 </a>
 
@@ -24,15 +24,15 @@ Backend: Node.js, Express, Python, Flask
 
 Databases: MongoDB, Cosmos DB
 
-AI/ML: GenAI, MCP, Agent2, Agent, OpenAI, Gemini
+AI/ML: Generative AI (OpenAI, Gemini), Autonomous Agents, Python (Scikit-learn, TensorFlow)
 
 Tools & Platforms: Git, Docker, AWS, Azure, Netlify
 
 📫 Get in Touch
 Portfolio Website: devsidharth.netlify.app
 
-Email: sidharthe38943@gmail.com
+Email:** sidharthe38943@gmail.com
 
-LinkedIn: Your Profile 
+LinkedIn: LinkedIn
 
 📊 My GitHub Stats
