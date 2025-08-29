@@ -37,7 +37,6 @@ I'm a passionate developer with a keen interest in **Full Stack Development** an
 ---
 
 ## 📫 Get in Touch
-https://sidharthe.dev/
 - **Portfolio**: [sidharthe.dev](https://sidharthe.dev/)
 - **Email**: sidharthe38943@gmail.com  
 - **LinkedIn**: [linkedin.com/in/sidharthe](https://www.linkedin.com/in/sidharthe)
