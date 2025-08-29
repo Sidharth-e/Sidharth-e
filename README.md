@@ -31,7 +31,7 @@ I'm a passionate developer with a keen interest in **Full Stack Development** an
 **AI/ML**:<br>
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)  ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 
-**Tools & Platforms**:
+**Tools & Platforms**:<br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 
 ---
